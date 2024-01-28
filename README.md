@@ -2,4 +2,4 @@
 
 Some description!
 
-New important info that needed to be added. 1
+New important info that needed to be added.
